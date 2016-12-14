@@ -7,7 +7,7 @@
 ```  
 npm i  
 ```   
-## Develop  
+## Develop
 ```
 npm run dev
 ```
